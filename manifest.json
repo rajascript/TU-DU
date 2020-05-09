@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Tu-Du",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "popup.html"
+  },
+  "description": "Easy Synchronised New Tab To Do List",
+  "icons": { "128": "icon.png" },
+  "browser_action": {
+    "default_title": "Easy Synchronised New Tab To Do List"
+  },
+  "permissions": ["tabs", "storage"],
+  "author": "Raja Raghav"
+}

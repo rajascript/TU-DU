@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Tu-Du</title>
+  </head>
+  <body>
+    <div class="input_container">
+      <input
+        placeholder="Hey champ, ssup?"
+        id="task_input"
+        type="text"
+        required
+      />
+      <select id="task_bucket_select">
+        <option value="inbox" selected="true">Inbox</option>
+        <option value="morning"">Morning</option>
+        <option value="evening"">Evening</option>
+        <option value="weekend"">Weekend</option>
+      </select>
+    </div>
+    <div id="task_list" class="list__container">
+      
+    </div>
+  </body>
+  <script src="popup.js"></script>
+</html>
