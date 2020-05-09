@@ -1,15 +1,18 @@
-# File Crook
+# Tu-Du
 
-File Crook is a Google Chrome extension that helps you bypass webpages and ads, and download real files directly from the websites.
+Wunderlist has been acquired by Microsoft To-Do! 
+I wanted a to-do app that allows me to manage my tasks on my chrome new tab browser! 
+The tasks are distributed in three buckets, Morning, Evening, and Weekend. 
+The list automatically selects bucket based on the time of day or day of the week!
 
 ## Installation
-[Download Chrome exentsion](https://chrome.google.com/webstore/detail/file-crook/ghnemhmclpdilnnfjpakhclfmjimdokd)
+//download link coming soon!
 
 ## Usage
 
-1. Enter the search query in the search bar.
-2. Now, Select file type you are looking for, from the dropdown menu.
-3. Hit Find button.
+1. Select Bucket.
+2. Add task.
+3. Click task to remove from bucket.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
