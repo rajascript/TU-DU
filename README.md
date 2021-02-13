@@ -1,12 +1,12 @@
 # Tu-Du
 
 Wunderlist has been acquired by Microsoft To-Do! 
-I wanted a to-do app that allows me to manage my tasks on my chrome new tab browser! 
+I wanted a to-do app that allows me to manage my tasks on my chrome browser! 
 The tasks are distributed in three buckets, Morning, Evening, and Weekend. 
-The list automatically selects bucket based on the time of day or day of the week!
+The list automatically selects bucket based on the time of day and day of the week.
 
 ## Installation
-//download link coming soon!
+Chrome hasn't allowed me to publish this extension, but you can download the code and manually install the extension.
 
 ## Usage
 
